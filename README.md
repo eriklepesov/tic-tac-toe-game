@@ -36,7 +36,7 @@ O |   | X
 ```
 
 ## Files Included
-- `tic_tac_toe_game_human.py`: The main Python script.
+- `tic_tac_toe_game.py`: The main Python script.
 - `README.md`: This file.
 
 ## Author
