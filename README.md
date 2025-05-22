@@ -22,7 +22,7 @@ Later, I improved and documented the code for use in my application to the Accen
 2. Open your terminal.
 3. Run the script:
    ```bash
-   python tic_tac_toe_game_human.py
+   python tic_tac_toe_game.py
    ```
 4. Take turns entering your moves using row and column numbers (e.g., `0 1`).
 
